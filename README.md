@@ -1,3 +1,7 @@
 # CNN-dogs
 CNN classifier for images of dogs or not and, if dog, for their breed.
-Could not upload the dataset of images since it is too large. I will try it on my website. 
+
+Click on the button at the very bottom of the following webpage: https://mandrei3.wixsite.com/home/copy-of-teaching . 
+The button is called "Convolutional Neural Network for image classification of animals dataset". 
+
+This project is part of the Udacity AI online class. 
